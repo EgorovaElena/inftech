@@ -1,0 +1,15 @@
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\bin\Debug\sem5_lab1.exe.config
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\bin\Debug\sem5_lab1.exe
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\bin\Debug\sem5_lab1.pdb
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\obj\Debug\sem5_lab1.csproj.AssemblyReference.cache
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\obj\Debug\MainWindow.g.cs
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\obj\Debug\App.g.cs
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\obj\Debug\sem5_lab1_MarkupCompile.cache
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\obj\Debug\sem5_lab1_MarkupCompile.lref
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\obj\Debug\MainWindow.baml
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\obj\Debug\sem5_lab1.g.resources
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\obj\Debug\sem5_lab1.Properties.Resources.resources
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\obj\Debug\sem5_lab1.csproj.GenerateResource.cache
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\obj\Debug\sem5_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\obj\Debug\sem5_lab1.exe
+C:\Users\Elena\Desktop\5й семестр\C#\sem5_lab1\sem5_lab1\obj\Debug\sem5_lab1.pdb
