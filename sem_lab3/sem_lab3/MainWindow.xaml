@@ -1,0 +1,35 @@
+﻿<Window x:Class="sem_lab3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sem_lab3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition />
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1">
+            <TextBox Name="windowTextBox" Margin="5,5,5,10" TextWrapping="Wrap" />
+        </Grid>
+
+        <Grid Name="Buttons" Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button Name="showHardDriveButton" Grid.Column="0" Content=" Узнать размер винчестера" HorizontalAlignment="Center" Width="150" VerticalAlignment="Center"/>
+            <Button Name="checkVirusButton" Grid.Column="1"  Content="Проверить на вирусы" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        </Grid>
+
+        <Grid Name="Button" Grid.Row="2">
+            <Button Name="turnOnOffButton" Content=" вкыл\выкл" HorizontalAlignment="Center" Width="150" VerticalAlignment="Center"/>
+        </Grid>
+
+    </Grid>
+</Window>
