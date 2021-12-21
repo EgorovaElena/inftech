@@ -1,0 +1,20 @@
+C:\Users\Danil\source\repos\Egorova 5\Egorova 5\bin\Debug\Egorova 5.exe.config
+C:\Users\Danil\source\repos\Egorova 5\Egorova 5\bin\Debug\Egorova 5.exe
+C:\Users\Danil\source\repos\Egorova 5\Egorova 5\bin\Debug\Egorova 5.pdb
+C:\Users\Danil\source\repos\Egorova 5\Egorova 5\obj\Debug\Egorova 5.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\Egorova 5\Egorova 5\obj\Debug\Egorova_5.Form1.resources
+C:\Users\Danil\source\repos\Egorova 5\Egorova 5\obj\Debug\Egorova_5.Properties.Resources.resources
+C:\Users\Danil\source\repos\Egorova 5\Egorova 5\obj\Debug\Egorova 5.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\Egorova 5\Egorova 5\obj\Debug\Egorova 5.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Egorova 5\Egorova 5\obj\Debug\Egorova 5.exe
+C:\Users\Danil\source\repos\Egorova 5\Egorova 5\obj\Debug\Egorova 5.pdb
+C:\Users\Elena\Desktop\5й семестр\C#\inftech\sem_lab5\Egorova 5\bin\Debug\Egorova 5.exe.config
+C:\Users\Elena\Desktop\5й семестр\C#\inftech\sem_lab5\Egorova 5\bin\Debug\Egorova 5.exe
+C:\Users\Elena\Desktop\5й семестр\C#\inftech\sem_lab5\Egorova 5\bin\Debug\Egorova 5.pdb
+C:\Users\Elena\Desktop\5й семестр\C#\inftech\sem_lab5\Egorova 5\obj\Debug\Egorova 5.csproj.AssemblyReference.cache
+C:\Users\Elena\Desktop\5й семестр\C#\inftech\sem_lab5\Egorova 5\obj\Debug\Egorova_5.Form1.resources
+C:\Users\Elena\Desktop\5й семестр\C#\inftech\sem_lab5\Egorova 5\obj\Debug\Egorova_5.Properties.Resources.resources
+C:\Users\Elena\Desktop\5й семестр\C#\inftech\sem_lab5\Egorova 5\obj\Debug\Egorova 5.csproj.GenerateResource.cache
+C:\Users\Elena\Desktop\5й семестр\C#\inftech\sem_lab5\Egorova 5\obj\Debug\Egorova 5.csproj.CoreCompileInputs.cache
+C:\Users\Elena\Desktop\5й семестр\C#\inftech\sem_lab5\Egorova 5\obj\Debug\Egorova 5.exe
+C:\Users\Elena\Desktop\5й семестр\C#\inftech\sem_lab5\Egorova 5\obj\Debug\Egorova 5.pdb
