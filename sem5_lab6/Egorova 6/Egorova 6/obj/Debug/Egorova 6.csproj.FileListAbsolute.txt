@@ -1,0 +1,10 @@
+C:\Users\Danil\source\repos\Egorova 6\Egorova 6\bin\Debug\Egorova 6.exe.config
+C:\Users\Danil\source\repos\Egorova 6\Egorova 6\bin\Debug\Egorova 6.exe
+C:\Users\Danil\source\repos\Egorova 6\Egorova 6\bin\Debug\Egorova 6.pdb
+C:\Users\Danil\source\repos\Egorova 6\Egorova 6\obj\Debug\Egorova 6.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\Egorova 6\Egorova 6\obj\Debug\Egorova_6.Form1.resources
+C:\Users\Danil\source\repos\Egorova 6\Egorova 6\obj\Debug\Egorova_6.Properties.Resources.resources
+C:\Users\Danil\source\repos\Egorova 6\Egorova 6\obj\Debug\Egorova 6.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\Egorova 6\Egorova 6\obj\Debug\Egorova 6.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Egorova 6\Egorova 6\obj\Debug\Egorova 6.exe
+C:\Users\Danil\source\repos\Egorova 6\Egorova 6\obj\Debug\Egorova 6.pdb
